@@ -134,8 +134,6 @@ machine-learning-project1/
 │
 ├── 📄 .gitignore                 # Ignore large files (.csv, .pkl, etc.)
 ├── 📄 README.md                  # Project documentation
-│
-└── 📄 requirements.txt           # Required libraries (optional)
 ```
 
 ---
